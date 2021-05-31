@@ -1,0 +1,2 @@
+Fixed
+* SV-306 Algorithm for raise request calculation works now

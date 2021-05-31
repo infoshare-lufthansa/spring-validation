@@ -1,0 +1,3 @@
+Added
+* SV-293 Validation for model
+* SV-301 Better algorithm for raise request calculation
